@@ -54,3 +54,30 @@
 .action-content{
     color: #58585b;
 }
+/*  Users Section style  */
+
+.all-user-data{
+    display: flex;
+    justify-content: center;
+    gap: 90px;
+}
+.user-data h2 {
+    font-weight: 800;
+    font-size: 50px;
+    color: #4E47FF;
+}
+.user-data p{
+    color: #58585b;
+}
+.user-container{
+    padding: 30px;
+    border-radius: 20px;
+    background-color:#E4E7FD;
+}
+.user-head{
+    text-align: center;
+}
+.user-section{
+    margin-top: 70px;
+    margin-bottom: 50px;
+}
