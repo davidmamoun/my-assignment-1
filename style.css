@@ -36,4 +36,21 @@
     .banner{
         text-align: center;
     }
-	
+	  /* Action Section  style */
+.action{
+    display: flex;
+    gap: 220px;
+    justify-content: space-around;
+    margin-top: 116px;
+    margin-bottom: 116;
+}
+.action-img{
+    width: 300px;
+}
+.action-img img{
+    width: 100%;
+    border-radius: 20px;
+}
+.action-content{
+    color: #58585b;
+}
